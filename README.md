@@ -4,7 +4,7 @@
 
 
 <p style="display:flex;">
-<a href="https://jnsoler12012.github.io/three-portfolio-website-GitPage/#/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=readme&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
+<a target='_blank' href="https://jnsoler12012.github.io/three-portfolio-website-GitPage/#/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=readme&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
 <a href="https://www.linkedin.com/in/jose-n-soler/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
 <a href="mailto:jnsoler04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
