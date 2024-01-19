@@ -24,6 +24,7 @@
 <p>🌱 &nbsp;Constantly learning and appliying new techniques related to Web and Server development</p>
 <p>💻 &nbsp;Currently learning more about DevOps and Cloud</p>
 <p>✍️ &nbsp;In my free time, I like to practice my technical drawing and painting skills.</p>
+<p>👯 &nbsp;I'm looking to learn how to collaborate on open source projects on my free time.</p>
 <p>✉️ &nbsp;You can email or reach me over my social and professional networks at any time. I'll try to respond as soon as possible!</p>
 </div>
 </div>
@@ -130,9 +131,11 @@
 <p style='margin:0.5rem;display:flex;'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnsoler12012&show_icons=true&locale=en&rank_icon=github" alt="jnsoler12012" /></p>
 </div>
 
-<div style='margin:1rem;'>
-<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=jnsoler12012&rank=-?&margin-w=15&theme=oldie
-" alt="jnsoler12012" style="margin: 1rem;text-align:center;" /></a> </p>
-</div>
 
+</br>
+</br>
+</br>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnsoler12012&rank=-?&margin-w=15&theme=oldie" alt="jnsoler12012" width=800 style="margin: 1rem;text-align:center;" /></a> </p>
 </div>
+</br>
+![alt background](./images/background.png)
