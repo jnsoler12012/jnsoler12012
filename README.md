@@ -114,14 +114,7 @@
 
 </div>
 
-
-
-
-
-
-
-
-<div style="height: auto;background-image: url('https://github.com/jnsoler12012/three-portfolio-website-GitPage/assets/63087709/761f2409-67bf-49aa-8f12-46475757b4b4');background-repeat: no-repeat;background-position: bottom;padding:1rem;">
+<div style="height: auto;background-image: url(./images/background.png);background-repeat: no-repeat;background-position: bottom;padding:1rem;">
 <h3 align="left">GitHub Stats</h3>
 
 <div style='display:block;flex-direction: column;
@@ -130,12 +123,7 @@
 
 <p style='margin:0.5rem;display:flex;'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnsoler12012&show_icons=true&locale=en&rank_icon=github" alt="jnsoler12012" /></p>
 </div>
+</br>
 
-
-</br>
-</br>
-</br>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnsoler12012&rank=-?&margin-w=15&theme=oldie" alt="jnsoler12012" width=800 style="margin: 1rem;text-align:center;" /></a> </p>
 </div>
-</br>
-![alt background](./images/background.png)
