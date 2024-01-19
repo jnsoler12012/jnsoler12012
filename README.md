@@ -4,9 +4,9 @@
 
 
 <p style="display:flex;">
-<a target='_blank' href="https://jnsoler12012.github.io/three-portfolio-website-GitPage/#/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=readme&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
-<a href="https://www.linkedin.com/in/jose-n-soler/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
-<a href="mailto:jnsoler04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
+<a target="_blank" href="https://jnsoler12012.github.io/three-portfolio-website-GitPage/#/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=readme&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
+<a target="_blank" href="https://www.linkedin.com/in/jose-n-soler/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
+<a target="_blank" href="mailto:jnsoler04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style='margin-right:0.5rem;' /></a>
 
 </p>
@@ -93,20 +93,20 @@
     flex-direction: column;
     justify-content: space-around;
 ">
-<a href="https://github.com/jnsoler12012/three-portfolio-website-GitPage" style="margin:4px">
+<a target="_blank" href="https://github.com/jnsoler12012/three-portfolio-website-GitPage" style="margin:4px">
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnsoler12012&repo=three-portfolio-website-GitPage" />
 </a>
-<a href="https://github.com/jnsoler12012/Dashboard-website-GitPage" style="margin:4px">
+<a target="_blank" href="https://github.com/jnsoler12012/Dashboard-website-GitPage" style="margin:4px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnsoler12012&repo=Dashboard-website-GitPage" />
 </a>
-<a href="https://github.com/jnsoler12012/CureCore-website-GitPage" style="margin:4px">
+<a target="_blank" href="https://github.com/jnsoler12012/CureCore-website-GitPage" style="margin:4px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnsoler12012&repo=CureCore-website-GitPage" />
 </a>
-<a href="https://github.com/jnsoler12012/Ecommerce-shop-GitPagee" style="margin:4px">
+<a target="_blank" href="https://github.com/jnsoler12012/Ecommerce-shop-GitPagee" style="margin:4px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnsoler12012&repo=Ecommerce-shop-GitPage" />
 </a>
-<a href="https://github.com/jnsoler12012/Ecommerce-website-GitPage" style="margin:4px">
+<a target="_blank" href="https://github.com/jnsoler12012/Ecommerce-website-GitPage" style="margin:4px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnsoler12012&repo=Ecommerce-website-GitPage" />
 </a>
 
